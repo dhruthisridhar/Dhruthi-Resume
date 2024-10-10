@@ -1,4 +1,4 @@
-# My Resume
+# My Resume - Dhruthi Sridhar 
 
 Live : https://dhruthisridhar.github.io/dhruthimurthy.github.io/
 
